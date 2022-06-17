@@ -1,0 +1,20 @@
+Associate:관련시키다
+Condition:조건
+Employment:고용
+Lack:~이 없다
+Managerial:관리의
+Diligent:성실한
+Familiar:익숙한, 친숙한
+Proficiency:숙달, 능숙
+Prospective:장래의, 미래의
+Appeal:관심을 끌다, 매력적이다
+Specialize:~을 전공하다, 전문적으로 다루다
+Apprehensive:걱정하는, 염려하는
+Consultant:고문, 컨설턴트
+Entitle:자격을 주다
+Degree:학위
+Payroll:임금 대장, 급료 명부
+Recruit:(신입 사원 등을) 모집하다
+Certification:증명서, 증명
+Occupation:직업
+Wage:임금, 급료

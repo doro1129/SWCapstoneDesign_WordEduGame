@@ -1,0 +1,4 @@
+#Fri Jun 17 17:19:36 KST 2022
+base.0=/Users/seojihye/Desktop/Unity/SWCapstoneDesign_WordEduGame/My project/Library/Bee/Android/Prj/IL2CPP/Gradle/launcher/build/intermediates/dex/release/mergeDexRelease/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
